@@ -19,3 +19,4 @@ PC前端：vue全家桶 vue+vue-router-vuex，http请求使用axios
 
 # 功能列表图
 
+![功能列表图](./need-list.png)
