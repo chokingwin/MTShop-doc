@@ -20,3 +20,16 @@ PC前端：vue全家桶 vue+vue-router-vuex，http请求使用axios
 # 功能列表图
 
 ![功能列表图](./need-list.png)
+
+# 仓库地址
+
+PC前端：[PC前端](https://github.com/chokingwin/MTShop-pc-frontend)
+
+移动前端：[移动前端](https://github.com/chokingwin/MTShop-mobile-frontend)
+
+小程序：[小程序](https://github.com/chokingwin/MTShop-miniprogram)
+
+后台：[后台](https://github.com/chokingwin/MTShop-backend)
+
+API：[API](https://github.com/chokingwin/MTShop-REST-API)
+
